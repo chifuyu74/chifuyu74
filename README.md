@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, Welcome to My Profile!  👋
 
 <!--
 **chifuyu74/chifuyu74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,13 +17,18 @@ Here are some ideas to get you started:
 
 ### **General Programmer**
 
+- 🔭 (Since 2021) general purpose developer and love designing, implementing, deploying to Backend
+- ⚡ Experienced in DevOps, CI/CD (on-premise System)
+- 😄 like to implement the same thing in many methods and curious
+- 🌱 Interested in high performance applications, algorithms
+
 #### Languages
 ![Language](https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,ts,go,elixir,python,lua,kotlin,powershell,bash&titles=true)
 
 #### Web
 ![Frontend](https://go-skill-icons.vercel.app/api/icons?i=blazor,nextjs,react,storybook,cloudflare,vercel,electron&titles=true)
 <br />
-![Backend](https://go-skill-icons.vercel.app/api/icons?i=dotnet,blazor,nodejs,nestjs,fastapi,graphql,gin,phoenix&titles=true)
+![Backend](https://go-skill-icons.vercel.app/api/icons?i=dotnet,nodejs,nestjs,fastapi,graphql,gin,phoenix&titles=true)
 
 #### Mobile
 ![Mobile](https://go-skill-icons.vercel.app/api/icons?i=android&titles=true)
@@ -37,11 +42,15 @@ Here are some ideas to get you started:
 #### ETC
 ![Brokers](https://go-skill-icons.vercel.app/api/icons?i=rabbitmq,kafka&titles=true)
 <br />
-![Monitoring](https://go-skill-icons.vercel.app/api/icons?i=prometheus,grafana&titles=true)
+![Monitoring](https://go-skill-icons.vercel.app/api/icons?i=prometheus,grafana&titles=true) + OpenTelemetry
 <br />
-![DB](https://go-skill-icons.vercel.app/api/icons?i=docker,k8s,ansible,&titles=true)
+![DB](https://go-skill-icons.vercel.app/api/icons?i=docker,k8s,ansible,githubactions,argocd&titles=true) + Gitlab Runner
 <br />
 ![OS](https://go-skill-icons.vercel.app/api/icons?i=windows,redhat,ubuntu&titles=true)
+<br />
+![Version Control System](https://go-skill-icons.vercel.app/api/icons?i=github,gitlab&titles=true) + Perforce
+<br />
+![Project Management](https://go-skill-icons.vercel.app/api/icons?i=notion,jira&titles=true)
 
 <!--
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?includeNames=true&languages=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown)](https://github.com/Jurredr/github-widgetbox)
