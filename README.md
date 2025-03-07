@@ -15,26 +15,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**General Programmer**
+### **General Programmer**
 
-### Languages
+#### Languages
 ![Language](https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,ts,go,elixir,python,lua,kotlin,powershell,bash&titles=true)
 
-### Web
+#### Web
 ![Frontend](https://go-skill-icons.vercel.app/api/icons?i=blazor,nextjs,react,storybook,cloudflare,vercel,electron&titles=true)
 <br />
-![Backend](https://go-skill-icons.vercel.app/api/icons?i=dotnet,blazor,nodejs,nestjs,fastapi,gin,phoenix&titles=true)
+![Backend](https://go-skill-icons.vercel.app/api/icons?i=dotnet,blazor,nodejs,nestjs,fastapi,graphql,gin,phoenix&titles=true)
 
-### Mobile
+#### Mobile
 ![Mobile](https://go-skill-icons.vercel.app/api/icons?i=android&titles=true)
 
-### Game
+#### Game
 ![Game](https://go-skill-icons.vercel.app/api/icons?i=unity,unreal&perline=3&titles=true)
 
 #### DB
 ![DB](https://go-skill-icons.vercel.app/api/icons?i=sqlserver,redis,mariadb,mysql,postgresql,mongo,elasticsearch,kibana&titles=true)
 
-### ETC
+#### ETC
 ![Brokers](https://go-skill-icons.vercel.app/api/icons?i=rabbitmq,kafka&titles=true)
 <br />
 ![Monitoring](https://go-skill-icons.vercel.app/api/icons?i=prometheus,grafana&titles=true)
