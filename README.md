@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🔭 (Since 2021) general purpose developer and love designing, implementing, deploying to Backend
 - ⚡ Experienced in DevOps, CI/CD (on-premise System)
 - 😄 like to implement the same thing in many methods and curious
-- 🌱 Interested in high performance applications, algorithms
+- 🌱 Interested in high-performance applications, algorithms and comparing pros & cons using various tools
 
 #### Languages
 ![Language](https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,ts,go,elixir,python,lua,kotlin,powershell,bash&titles=true)
